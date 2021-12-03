@@ -1,0 +1,16 @@
+{
+  "name": "vending_machine",
+  "version": "1.0.0",
+  "description": "This is a Vending Machine",
+  "main": "snack.js",
+  "scripts": {
+    "test": "jest --coverage",
+    "start": "node snack.js"
+  },
+  "author": "Sampurna",
+  "license": "ISC",
+  "dependencies": {
+    "jest": "^27.4.3",
+    "prompt": "^1.2.0"
+  }
+}
